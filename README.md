@@ -1,0 +1,5 @@
+# Hiaya
+代码存存存
+aaaa是我用来跑Mplus蒙特卡洛模拟用的，能够按设定d模型跑呀，包括ESEM、sem、bsem三种方法，
+虽然代码可能看着比较迷，里面考虑了三百多种实验情况，如果用Mplus跑SEM模拟可以考虑
+#yigeyigepao和zidong都是尝试想用R来生成数据，再用mplus一个一个估，目前已经可以生成数据一个个跑，但是还不知道咋汇总结果，Mplus Automation应该有适合的功能
